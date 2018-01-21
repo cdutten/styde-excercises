@@ -1,0 +1,15 @@
+{
+    "name": "cdutten/styde",
+    "description": "Mi resolucion a los ejercicios de los cursos de styde",
+    "require-dev": {
+        "phpmd/phpmd": "^2.6",
+        "friendsofphp/php-cs-fixer": "^2.10"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cdutten",
+            "email": "cdutten@gmail.com"
+        }
+    ]
+}
